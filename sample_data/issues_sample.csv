@@ -1,0 +1,21 @@
+id,title,description,priority,status,story_points,created_at
+ISSUE-001,Implement user authentication,Add OAuth2 login with social providers,High,Open,8,2024-01-15
+ISSUE-002,Add search functionality,Implement full-text search across all content,Critical,In Progress,13,2024-01-16
+ISSUE-003,Fix mobile responsiveness,UI breaks on smaller screens,High,Open,5,2024-01-17
+ISSUE-004,Database performance optimization,Queries are slow on large datasets,Critical,Open,8,2024-01-18
+ISSUE-005,Add CSV export feature,Allow users to export data to CSV,Medium,Open,3,2024-01-19
+ISSUE-006,Implement dark mode,Add dark theme option,Low,Open,5,2024-01-20
+ISSUE-007,User profile page,Create user profile management,Medium,In Progress,8,2024-01-21
+ISSUE-008,API documentation,Write comprehensive API docs,Medium,Open,5,2024-01-22
+ISSUE-009,Email notifications,Send email alerts for important events,High,Open,8,2024-01-23
+ISSUE-010,Two-factor authentication,Add 2FA security feature,High,Open,13,2024-01-24
+ISSUE-011,Export to Excel,Allow Excel format export,Medium,Open,3,2024-01-25
+ISSUE-012,Advanced search filters,Add filtering options to search,Medium,Open,5,2024-01-26
+ISSUE-013,Password reset flow,Implement forgot password feature,High,Resolved,5,2024-01-27
+ISSUE-014,Search performance,Improve search speed,High,Open,8,2024-01-28
+ISSUE-015,User dashboard,Create personalized dashboard,Medium,Open,13,2024-01-29
+ISSUE-016,Integration tests,Add comprehensive test coverage,Medium,In Progress,8,2024-01-30
+ISSUE-017,Error logging,Implement error tracking system,High,Open,5,2024-01-31
+ISSUE-018,Cache implementation,Add Redis caching layer,High,Open,8,2024-02-01
+ISSUE-019,Mobile app design,Design mobile-first interface,Medium,Open,13,2024-02-02
+ISSUE-020,Security audit,Conduct security review,Critical,Open,13,2024-02-03
